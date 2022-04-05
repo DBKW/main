@@ -1,0 +1,14 @@
+{
+   "chainId": 101,
+   "address": "ELRDmxxxk6KemFdmReS3zRfoVHR2hTtJnqN9arTAY9LV",
+   "symbol”: ”ALBIE”,
+   "name”: ”Albie Coin”,
+   "decimals”: 9,
+   "logoURI": "https://github.com/DBKW/Solana/blob/09e660be8631e2a62457bfcd57d7abbc724bd05c/Alibe%20Coin.png”,
+   "tags":[
+
+   ],
+   "extensions":{
+
+   }
+}
